@@ -1,0 +1,56 @@
+12/4/2020
+
+This is a NESTED TABLE WITHIN A TABLE
+
+<h3>Skills</h3>
+<table>
+  <tr>
+    <td>
+      <table border="1">
+      <tr>
+        <td>Venipuncture and IV Catheter placement</td>
+        <td> &#11088; &#11088; &#11088; &#11088; &#11088;</td>
+      </tr>
+
+      <tr>
+        <td>Bandaging</td>
+        <td> &#11088; &#11088; &#11088; &#11088; &#11088;</td>
+      </tr>
+
+      <tr>
+        <td>Blood Transfusions</td>
+        <td> &#11088; &#11088; &#11088; &#11088; </td>
+      </tr>
+
+      <tr>
+        <td>Anesthsia</td>
+        <td> &#11088; &#11088; &#11088;</td>
+      </tr>
+      </table>
+    </td>
+
+    <td>
+      <table border="1">
+      <tr>
+        <td>Venipuncture and IV Catheter placement</td>
+        <td> &#11088; &#11088; &#11088; &#11088; &#11088;</td>
+      </tr>
+
+      <tr>
+        <td>Bandaging</td>
+        <td> &#11088; &#11088; &#11088; &#11088; &#11088;</td>
+      </tr>
+
+      <tr>
+        <td>Blood Transfusions</td>
+        <td> &#11088; &#11088; &#11088; &#11088; </td>
+      </tr>
+
+      <tr>
+        <td>Anesthsia</td>
+        <td> &#11088; &#11088; &#11088;</td>
+      </tr>
+      </table>
+    </td>
+  </tr>
+</table>
